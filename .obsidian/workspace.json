@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "47de385dcbfa569f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfc231268c19d138",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b323e379f385cc42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapter2/虚拟地址, 实际地址.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab267cb3bb9ef215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapter2/kinit().md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5ba635afe3fb520",
+    "type": "split",
+    "children": [
+      {
+        "id": "72e36ea853129ce2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "378d3f48730b90d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "643858c7b3320fe8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "984336cc00c4712b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02df089643d04821",
+    "type": "split",
+    "children": [
+      {
+        "id": "d15c0247b5143684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e9b35efbf502065",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chapter2/虚拟地址, 实际地址.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2b5af93a211e2af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "chapter2/虚拟地址, 实际地址.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "650ff9f360ed7411",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3895313f0ff2edd8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "chapter2/虚拟地址, 实际地址.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-rich-links:Rich Links": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "b323e379f385cc42",
+  "lastOpenFiles": [
+    "chapter2/kernel的虚拟地址空间.md",
+    "Pasted image 20240317112342.png",
+    "chapter2/Chapter2 OS Organization.md",
+    "chapter2/虚拟地址, 实际地址.md",
+    "chapter2/kinit().md",
+    "chapter1/Chapter1 OS API.md",
+    "Pasted image 20240224182724.png",
+    "Pasted image 20240224182058.png",
+    "未命名思维导图.md",
+    "chapter1/Pasted image 20240213101741.png",
+    "chapter2",
+    "chapter1/Pasted image 20240213104441.png",
+    "chapter1"
+  ]
+}
