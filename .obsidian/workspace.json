@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bfc231268c19d138",
+        "id": "ee13baa289ee9d26",
         "type": "tabs",
         "children": [
           {
-            "id": "b323e379f385cc42",
+            "id": "eda98ee4263d7706",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter2/虚拟地址, 实际地址.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab267cb3bb9ef215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chapter2/kinit().md",
+                "file": "chapter3/Chapter3 Page Table.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "02df089643d04821",
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter2/虚拟地址, 实际地址.md",
+                "file": "chapter3/Chapter3 Page Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapter2/虚拟地址, 实际地址.md",
+                "file": "chapter3/Chapter3 Page Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapter2/虚拟地址, 实际地址.md"
+                "file": "chapter3/Chapter3 Page Table.md"
               }
             }
           }
@@ -163,13 +151,15 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b323e379f385cc42",
+  "active": "eda98ee4263d7706",
   "lastOpenFiles": [
+    "chapter2/kinit().md",
+    "chapter3/Chapter3 Page Table.md",
+    "chapter2/虚拟地址, 实际地址.md",
+    "chapter3",
     "chapter2/kernel的虚拟地址空间.md",
     "Pasted image 20240317112342.png",
     "chapter2/Chapter2 OS Organization.md",
-    "chapter2/虚拟地址, 实际地址.md",
-    "chapter2/kinit().md",
     "chapter1/Chapter1 OS API.md",
     "Pasted image 20240224182724.png",
     "Pasted image 20240224182058.png",
