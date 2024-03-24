@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PHYSTOP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "02df089643d04821",
@@ -153,13 +153,14 @@
   },
   "active": "eda98ee4263d7706",
   "lastOpenFiles": [
-    "chapter2/kinit().md",
+    "chapter2/kernel的虚拟地址空间.md",
     "chapter3/Chapter3 Page Table.md",
+    "chapter2/Chapter2 OS Organization.md",
+    "chapter2/kinit().md",
+    "Pasted image 20240324151932.png",
     "chapter2/虚拟地址, 实际地址.md",
     "chapter3",
-    "chapter2/kernel的虚拟地址空间.md",
     "Pasted image 20240317112342.png",
-    "chapter2/Chapter2 OS Organization.md",
     "chapter1/Chapter1 OS API.md",
     "Pasted image 20240224182724.png",
     "Pasted image 20240224182058.png",
