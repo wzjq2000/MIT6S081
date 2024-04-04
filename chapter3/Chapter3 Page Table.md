@@ -18,7 +18,7 @@
 任意一个进程, 都具备 1 个一个用于用户虚拟地址空间 (见 #用户的虚拟地址空间  )的页表. 
 
 而对于 kernel 来说, 它全局只有一个页表, 用于 kernel 虚拟地址空间 (见 [[kernel的虚拟地址空间]]). kernel 的虚拟地址空间如下:
-![Pasted image 20240317112342.png](app://d16c9988c2976e9be965135c43431680fcaf/Users/andy/SelfLearn/ObsidianVaultsForComputerScience/OS/6S081_OperatingSystem/Pasted%20image%2020240317112342.png?1710645822755) 
+![[Pasted image 20240404205909.png]]
 可以看到:
 - kernel 预期的可用的 RAM (同时被 kernel 与用户程序使用)范围是: 从 KERNBASE 到 PHYSTOP
 - kernel 自身 (KERNBASE)是进行了直接映射 (即物理地址=虚拟地址)
